@@ -7,7 +7,7 @@
 ### Client/Launcher Download: https://2006Scape.org/
 ### Rune-Server project thread: [Project thread](https://www.rune-server.ee/runescape-development/rs2-server/projects/686444-2006rebotted-remake-server-will-allow-supply-creatable-bots.html)
 
-# Installation + Running (Developers)
+# Installation + Running (Developers) with IntelliJ
 
 1. Import Project in IntelliJ
 
@@ -17,6 +17,14 @@
 
    [(You Can Also Run The Server With The -c/-config Argument)](https://wiki.2006scape.org/books/getting-setup/page/server-arguments)
 5. Navigate to `2006Scape Client` > `src` > `main` > `java`, right click Client and hit Run [Image](https://i.imgur.com/gSmqGLn.png)
+
+# Installation + Running (Developers) with Terminal
+
+1. Run setup.sh (./setup.sh)
+
+2. Oprn another Terminal and run_server.sh
+
+3. run_client.sh
 
 *Advanced*
 
