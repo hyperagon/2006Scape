@@ -24,7 +24,7 @@
 
 2. Run `setup.sh` (./setup.sh) or `mvn -B clean install`
 
-3. Oprn another Terminal and `run_server.sh` (./run_server.sh)
+3. Open another Terminal and `run_server.sh` (./run_server.sh)
 
 4. Run `run_client.sh` (./run_client.sh)
 
