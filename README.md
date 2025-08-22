@@ -22,9 +22,9 @@
 
 1. Run setup.sh (./setup.sh) or `mvn -B clean install`
 
-2. Oprn another Terminal and run_server.sh (./run_server.sh)
+2. Oprn another Terminal and `run_server.sh` (./run_server.sh)
 
-3. Run run_client.sh (./run_client.sh)
+3. Run `run_client.sh` (./run_client.sh)
 
 ## Using Parabot with your local server:
 - **1:** Download the latest Parabot Client from [here](https://github.com/2006-Scape/Parabot/releases)
